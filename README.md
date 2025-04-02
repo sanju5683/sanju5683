@@ -4,7 +4,6 @@
 I'm a passionate self-taught developer who loves coding and creating projects. I started with Python and later dived into web development. Currently, I'm focusing on React Native while also working on projects that can help me earn money.
 
 ## 🛠 Tech Stack
-## 🚀 Tech Stack
 
 ### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
