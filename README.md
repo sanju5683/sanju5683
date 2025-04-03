@@ -1,7 +1,7 @@
 # Hi there, I'm Sanju! 👋
 
 ## 🚀 About Me
-I'm a passionate self-taught developer who loves coding and creating projects. I started with Python and later dived into web development. Currently, I'm focusing on React Native while also working on projects that can help me earn money.
+I'm a passionate self-taught developer who loves coding and creating projects. I started with Python and later dived into web development. Currently, I'm focusing on React Native while also working on projects that can help me boost my skills.
 
 ## 🛠 Tech Stack
 
