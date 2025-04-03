@@ -30,7 +30,7 @@ I'm a passionate self-taught developer who loves coding and creating projects. I
 
 ## 📌 Projects
 🔹 [PassOP - A Password Manager](https://github.com/sanju5683/React-Projects/tree/main/Password_Manager)
-🔹 [PassOP - A Password Manager]()
+🔹 [iTask - Todo List App](https://github.com/sanju5683/React-Projects/tree/main/Todo_List_App)
 
 ## 🎯 Goals
 - Be a full-stack developer
