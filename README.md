@@ -29,7 +29,7 @@ I'm a passionate self-taught developer who loves coding and creating projects. I
 - **Backend Development** (Expanding my skills)
 
 ## 📌 Projects
-🔹 [PassOP - A Password Manager](#) *(More projects coming soon!)*
+🔹 [PassOP - A Password Manager](https://github.com/sanju5683/React-Projects/tree/main/Password_Manager) *(More projects coming soon!)*
 
 ## 🎯 Goals
 - Be a full-stack developer
