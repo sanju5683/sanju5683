@@ -46,8 +46,7 @@ I'm a passionate self-taught developer who loves coding and creating projects. I
 - Grow my YouTube channel **(Let's Learn Code)**
 
 ## 📬 Connect With Me
-- **LinkedIn:** [Your Profile](www.linkedin.com/in/sanju-pal2025)
-- **Twitter/X:** [Your Profile](#)
+- **LinkedIn:** [Your Profile](www.linkedin.com/in/sanju-tech)
 - **GitHub:** [Your GitHub](https://github.com/sanju5683)
 
 Thanks for visiting my profile! Happy coding! 🚀
