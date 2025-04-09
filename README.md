@@ -29,12 +29,12 @@ I'm a passionate self-taught developer who loves coding and creating projects. I
 - **Backend Development** (Expanding my skills)
 
 ## 📌 Projects
-🔹 [PassOP - A Password Manager](https://github.com/sanju5683/React-Projects/tree/main/Password_Manager)
+🔹 [PassOP - A Password Manager](https://github.com/sanju5683/Password_Manager)
 
-🔹 [iTask - Todo List App](https://github.com/sanju5683/React-Projects/tree/main/Todo_List_App)
+🔹 [iTask - Todo List App](https://github.com/sanju5683/Todo_List_App)
 
 
-🔹 [My Weather App](https://github.com/sanju5683/Javascript-Project/tree/main/Weather%20App)
+🔹 [My Weather App](https://github.com/sanju5683/Weather%20App)
 
 
 
