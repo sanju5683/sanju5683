@@ -29,16 +29,27 @@ I'm a passionate self-taught developer who loves coding and creating projects. I
 - **Backend Development** (Expanding my skills)
 
 ## 📌 Projects
-🔹 [PassOP - A Password Manager](https://github.com/sanju5683/Password-Manager)
-
-🔹 [iTask - Todo List App](https://github.com/sanju5683/Todo-List-App)
 
 
-🔹 [My Weather App](https://github.com/sanju5683/Weather-App)
+### 1. Password Manager (PassOP)
+🔗 [Live Site](https://passop2025.netlify.app/)  
+📂 [GitHub Repo](https://github.com/sanju5683/Password-Manager)
 
-🔹 [BitLinks - URL Shortener](https://github.com/sanju5683/Bitlinks)
+### 2. Weather App
+🔗 [Live Site](https://myweather2025.netlify.app/)  
+📂 [GitHub Repo](https://github.com/sanju5683/Weather-App)
 
+### 3.Todo App  (iTask)
+🔗 [Live Site](https://itask2025.netlify.app/)  
+📂 [GitHub Repo](https://github.com/sanju5683/Todo-List-App)
 
+### 4.Age Calculator 
+🔗 [Live Site](https://age-calc-2025.netlify.app/)  
+📂 [GitHub Repo](https://github.com/sanju5683/Mini-Projects/tree/main/age%20calculator)
+
+### 5.URL Shortener  (Bitlinks) 
+🔗 [Live Site](https://bitlinks-alpha.vercel.app/)  
+📂 [GitHub Repo](https://github.com/sanju5683/Bitlinks)
 
 ## 🎯 Goals
 - Be a full-stack developer
