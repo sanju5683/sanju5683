@@ -23,6 +23,11 @@ I'm a passionate self-taught developer who loves coding and creating projects. I
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+![ChatGPT](https://img.shields.io/badge/AI-ChatGPT-blueviolet?logo=openai&logoColor=white)
+
+
+
+
 
 ## 🌱 Currently Learning
 - **React Native** (Basic to Advanced)
