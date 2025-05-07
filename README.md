@@ -48,11 +48,8 @@ I'm a passionate self-taught developer who loves coding and creating projects. I
 🔗 [Live Site](https://itask2025.netlify.app/)  
 📂 [GitHub Repo](https://github.com/sanju5683/Todo-List-App)
 
-### 4.Age Calculator 
-🔗 [Live Site](https://age-calc-2025.netlify.app/)  
-📂 [GitHub Repo](https://github.com/sanju5683/Mini-Projects/tree/main/age%20calculator)
 
-### 5.URL Shortener  (Bitlinks) 
+### 4.URL Shortener  (Bitlinks) 
 🔗 [Live Site](https://bitlinks-alpha.vercel.app/)  
 📂 [GitHub Repo](https://github.com/sanju5683/Bitlinks)
 
